@@ -32,3 +32,29 @@
     font-style: italic;
     font-size: 20px;
 }
+#tribute-info {
+    background-color: beige;
+    font-size: 24px;
+    padding: 30px 0;
+}
+
+
+#tribute-info h3 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#tribute-info ul  {
+    width: 500px;
+    margin: auto;
+}
+
+#tribute-info ul li {
+    margin: 10px;
+}
+
+#tribute-info p {
+    text-align: center;
+    margin-top: 20px;
+}
+
